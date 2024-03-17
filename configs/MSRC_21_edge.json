@@ -1,0 +1,11 @@
+{
+    "dataset": "MSRC_21",
+    "objective": "pns",
+    "type_explanation": "e",
+    "lr" : 0.01,
+    "num_epochs" : 500,
+    "alpha_e" : 0.0005,
+    "beta_e" : 1,
+    "alpha_f" : 0,
+    "beta_f" : 0
+}

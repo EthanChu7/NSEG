@@ -1,0 +1,11 @@
+{
+    "dataset": "Tree-Grid",
+    "objective": "pns",
+    "type_explanation": "ef",
+    "lr" : 0.01,
+    "num_epochs" : 500,
+    "alpha_e" : 0.01,
+    "beta_e" : 1.0,
+    "alpha_f" : 0.01,
+    "beta_f" : 1.0
+}

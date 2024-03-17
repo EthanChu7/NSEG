@@ -1,0 +1,11 @@
+{
+    "dataset": "BA-Shapes",
+    "objective": "pns",
+    "type_explanation": "e",
+    "lr" : 0.01,
+    "num_epochs" : 1000,
+    "alpha_e" : 0.005,
+    "beta_e" : 1.0,
+    "alpha_f" : 0.0,
+    "beta_f" : 0.0
+}
